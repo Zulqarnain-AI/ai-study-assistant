@@ -154,4 +154,4 @@ ai-study-assistant/
 
 ## License
 
-This project was built as a university submission. All rights reserved by the author.
+This project was built as a university submission. All rights reserved by the @zulqarnain.
